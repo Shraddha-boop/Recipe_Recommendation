@@ -12,18 +12,18 @@ Alternatively it can also be downloaded from - https://drive.google.com/uc?id=1K
 
 # Pre-processing of the dataset-
 
-1)Parsing through the list of ingredients to segregate them into unit quantity and the ingredient itself
-2)This involves removing the verbs and stopwords, to retain only the actual ingredients
-3)Parsing through the cuisine to retrieve the specific cuisine the recipe may belong to
-4)Checking for potential outliers and null values in the dataset
-5)Dropping out columns that are not a part of our analysis
-6)Changing the Total time in both of the datasets into a standard format(minutes)
+1. Parsing through the list of ingredients to segregate them into unit quantity and the ingredient itself
+2. This involves removing the verbs and stopwords, to retain only the actual ingredients
+3. Parsing through the cuisine to retrieve the specific cuisine the recipe may belong to
+4. Checking for potential outliers and null values in the dataset
+5. Dropping out columns that are not a part of our analysis
+6. Changing the Total time in both of the datasets into a standard format(minutes)
 
 # Visualizations-
 
-Distribution of the Cuisines from the dataset
-Variation of Rating based on Cuisine
-Variation of the nutrional content based on the ratings(Divided into 4 quartiles)
+1. Distribution of the Cuisines from the dataset
+2. Variation of Rating based on Cuisine
+3. Variation of the nutrional content based on the ratings(Divided into 4 quartiles)
 
 # Analysis of the Recipe Dataset bases on a few hypothesis-
 
